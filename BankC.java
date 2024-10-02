@@ -5,7 +5,7 @@ public class BankC extends Bank {
 
 	public BankC() {
 
-		balance = 1500;
+		balance = 2000;
 	}
 
 	public double getBalance() {
